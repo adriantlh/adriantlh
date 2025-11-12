@@ -1,6 +1,6 @@
 # Adrian Tan
 
-Welcome to my corner of GitHub. I work with Data and Software,
+Welcome to my corner of GitHub. I work with Data and Software and I sometimes talk about HR stuff.
 
 ## Current Focus
 - Looking for fun interesting Projects
